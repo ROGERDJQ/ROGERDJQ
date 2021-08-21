@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning **science**
 - ⚡ Fun fact: **Spongebob Squarepants, and Makka Pakka**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ROGERDJQ&show_icons=true" alt="ROGERDJQ Github Stats" align="right" style="margin-bottom:20px;"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=ROGERDJQ&show_icons=true" alt="ROGERDJQ Github Stats" align="right" style="margin-bottom:50px;"></img>
