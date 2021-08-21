@@ -10,5 +10,5 @@
 - ⚡ Fun fact: **Spongebob Squarepants, and Makka Pakka**
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=ROGERDJQ&show_icons=true" alt="ROGERDJQ Github Stats" align="right" style="margin-bottom: 150px;"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=ROGERDJQ&show_icons=true" alt="ROGERDJQ Github Stats"  style="margin-bottom: 150px;"></img>
 </p>
