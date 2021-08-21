@@ -7,6 +7,6 @@
 
 - 🔭 I’m currently working on **computer**
 - 🌱 I’m currently learning **science**
-- ⚡ Fun fact: **Spongebob Squarepants and Makka Pakka **
+- ⚡ Fun fact: **Spongebob Squarepants, and Makka Pakka**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ROGERDJQ&show_icons=true" alt="ROGERDJQ Github Stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=ROGERDJQ&show_icons=true" alt="ROGERDJQ Github Stats" align="right"></img>
