@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on **living**
+- 🔭 I’m currently working on **making a living**
 - 🌱 I’m currently learning **nothing**
 - ⚡ Fun fact: **Good Luck, Makka Pakka**
 
